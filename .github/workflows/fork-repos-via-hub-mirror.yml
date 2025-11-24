@@ -25,10 +25,13 @@ jobs:
 
       - name: Generate repository matrix
         id: set-matrix
+        env:
+          OFFSET: ${{ env.OFFSET }}   # 可在 workflow 中自行设定，默认 0
+          LIMIT:  ${{ env.LIMIT }}    # 默认 256
         run: |
           MATRIX=$(python scripts/generate_repo_matrix.py)
           echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
-
+  
   mirror-repos:
     needs: generate-matrix
     runs-on: ubuntu-latest
