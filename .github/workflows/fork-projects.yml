@@ -1,0 +1,37 @@
+name: Fork Hackathon Projects
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 0 * * 0'  # Run weekly on Sunday at midnight UTC
+
+jobs:
+  fork-projects:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests pandas
+      
+      - name: Fork projects from CSV
+        env:
+          GITHUB_TOKEN: ${{ secrets.FORK_TOKEN }}
+          TARGET_ORG: walrus-haulout
+        run: |
+          python scripts/fork_projects.py
+      
+      - name: Upload fork report
+        uses: actions/upload-artifact@v4
+        with:
+          name: fork-report
+          path: fork_report.json
+          retention-days: 30
