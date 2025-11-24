@@ -21,8 +21,8 @@ TARGET_ORG = os.getenv('TARGET_ORG', 'walrus-haulout')
 # 分页控制（可在 workflow 中通过 env 传入）
 #   OFFSET：从第几条记录开始（0‑based）
 #   LIMIT ：最多返回多少条（默认 256，符合 GitHub Actions 限制）
-OFFSET = int(os.getenv('OFFSET', '0'))
-LIMIT  = int(os.getenv('LIMIT', '256'))
+OFFSET = int(os.getenv('OFFSET') or 0)
+LIMIT  = int(os.getenv('LIMIT') or 256)
 # ------------------------------------------------
 
 repos = []
