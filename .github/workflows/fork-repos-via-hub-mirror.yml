@@ -1,0 +1,43 @@
+name: Fork Repositories via hub-mirror-action
+
+on:
+  workflow_dispatch:            # 手动触发
+  schedule:
+    - cron: '0 0 * * 0'        # 每周日 00:00 UTC 自动运行（可自行修改）
+
+jobs:
+  generate-matrix:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install --quiet --upgrade pip
+
+      - name: Generate repository matrix
+        id: set-matrix
+        run: |
+          MATRIX=$(python scripts/generate_repo_matrix.py)
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
+  mirror-repos:
+    needs: generate-matrix
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{ fromJSON(needs.generate-matrix.outputs.matrix) }}
+    steps:
+      - name: Mirror repository
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: ${{ matrix.src }}
+          dst: ${{ matrix.dst }}
+          dst_token: ${{ secrets.FORK_TOKEN }}
