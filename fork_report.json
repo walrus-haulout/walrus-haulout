@@ -1,0 +1,2395 @@
+{
+  "total": 265,
+  "successful": 2,
+  "failed": 14,
+  "skipped": 249,
+  "synced": 0,
+  "forked": 2,
+  "results": [
+    {
+      "project_name": "Backstage",
+      "github_url": "https://github.com/N3xt-Ep0ch-L4bs/Backstage-app",
+      "owner": "N3xt-Ep0ch-L4bs",
+      "repo": "Backstage-app",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Backstage-app (sync disabled)"
+    },
+    {
+      "project_name": "ALETHEIA",
+      "github_url": "https://github.com/preyam2002/Aletheia",
+      "owner": "preyam2002",
+      "repo": "Aletheia",
+      "action": "fork",
+      "success": false,
+      "message": "Repository preyam2002/Aletheia not found or private"
+    },
+    {
+      "project_name": "OpenTruth",
+      "github_url": "https://github.com/anthonykimani/OpenTruth",
+      "owner": "anthonykimani",
+      "repo": "OpenTruth",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/OpenTruth (sync disabled)"
+    },
+    {
+      "project_name": "VAMS",
+      "github_url": "https://github.com/ayushsrivastava55/VAMS",
+      "owner": "ayushsrivastava55",
+      "repo": "VAMS",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/VAMS (sync disabled)"
+    },
+    {
+      "project_name": "Prophyt Protocol",
+      "github_url": "https://github.com/andre11011/ProphytProtocol",
+      "owner": "andre11011",
+      "repo": "ProphytProtocol",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ProphytProtocol (sync disabled)"
+    },
+    {
+      "project_name": "ZkStorage",
+      "github_url": "https://github.com/dhananjaypai08/ZkStorage",
+      "owner": "dhananjaypai08",
+      "repo": "ZkStorage",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ZkStorage (sync disabled)"
+    },
+    {
+      "project_name": "Shinrai",
+      "github_url": "https://github.com/daiwikmh/shinrai",
+      "owner": "daiwikmh",
+      "repo": "shinrai",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/shinrai (sync disabled)"
+    },
+    {
+      "project_name": "epoch",
+      "github_url": "https://github.com/perion0x/epoch",
+      "owner": "perion0x",
+      "repo": "epoch",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/epoch (sync disabled)"
+    },
+    {
+      "project_name": "Synapse Model",
+      "github_url": "https://github.com/AbhimanyuAjudiya/Synapse-Model",
+      "owner": "AbhimanyuAjudiya",
+      "repo": "Synapse-Model",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Synapse-Model (sync disabled)"
+    },
+    {
+      "project_name": "Waltube",
+      "github_url": "https://github.com/aboutmydreams/walrustube",
+      "owner": "aboutmydreams",
+      "repo": "walrustube",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrustube (sync disabled)"
+    },
+    {
+      "project_name": "Decentra Merch ",
+      "github_url": "https://github.com/decentralisedmerch/DecentraMerch",
+      "owner": "decentralisedmerch",
+      "repo": "DecentraMerch",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/DecentraMerch (sync disabled)"
+    },
+    {
+      "project_name": "FloodGuard by DevPros",
+      "github_url": "https://github.com/0xsotaoss/floodguard/tree/master",
+      "owner": "0xsotaoss",
+      "repo": "floodguard",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/floodguard (sync disabled)"
+    },
+    {
+      "project_name": "Provena",
+      "github_url": "https://github.com/mhd-aris/provena-backend",
+      "owner": "mhd-aris",
+      "repo": "provena-backend",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/provena-backend (sync disabled)"
+    },
+    {
+      "project_name": "Lovely - Decentralized Creator Subscription Platform",
+      "github_url": "https://github.com/jeffierw/lovely",
+      "owner": "jeffierw",
+      "repo": "lovely",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/lovely (sync disabled)"
+    },
+    {
+      "project_name": "CapyData",
+      "github_url": "https://github.com/khoanna/capydata",
+      "owner": "khoanna",
+      "repo": "capydata",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/capydata (sync disabled)"
+    },
+    {
+      "project_name": "SuiMessenger",
+      "github_url": "https://github.com/mhbs12/SuiMessenger",
+      "owner": "mhbs12",
+      "repo": "SuiMessenger",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SuiMessenger (sync disabled)"
+    },
+    {
+      "project_name": "PebbleShare",
+      "github_url": "https://github.com/violinadoley/pebbleshare",
+      "owner": "violinadoley",
+      "repo": "pebbleshare",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/pebbleshare (sync disabled)"
+    },
+    {
+      "project_name": "Project SONAR",
+      "github_url": "https://github.com/Angleito/Sonar",
+      "owner": "Angleito",
+      "repo": "Sonar",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Sonar (sync disabled)"
+    },
+    {
+      "project_name": "Wit With Withub",
+      "github_url": "https://github.com/CatKevin/wit",
+      "owner": "CatKevin",
+      "repo": "wit",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/wit (sync disabled)"
+    },
+    {
+      "project_name": "WriteBlock",
+      "github_url": "https://github.com/CemAyyildiz/WriteBlock",
+      "owner": "CemAyyildiz",
+      "repo": "WriteBlock",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/WriteBlock (sync disabled)"
+    },
+    {
+      "project_name": "MedLock",
+      "github_url": "https://github.com/N3xt-Ep0ch-L4bs/medlock",
+      "owner": "N3xt-Ep0ch-L4bs",
+      "repo": "medlock",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/medlock (sync disabled)"
+    },
+    {
+      "project_name": "Polarwing",
+      "github_url": "https://github.com/PolarWingWalrus/polarwing-mono",
+      "owner": "PolarWingWalrus",
+      "repo": "polarwing-mono",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/polarwing-mono (sync disabled)"
+    },
+    {
+      "project_name": "indelible.Blob",
+      "github_url": "https://github.com/illuminatedmovement/indelible-blob",
+      "owner": "illuminatedmovement",
+      "repo": "indelible-blob",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/indelible-blob (sync disabled)"
+    },
+    {
+      "project_name": "zk-sui-sdk",
+      "github_url": "https://github.com/jatinsahijwani/zk-sui-sdk",
+      "owner": "jatinsahijwani",
+      "repo": "zk-sui-sdk",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/zk-sui-sdk (sync disabled)"
+    },
+    {
+      "project_name": "ProofSpace",
+      "github_url": "https://github.com/CaptainDiv/Proofspace/",
+      "owner": "CaptainDiv",
+      "repo": "Proofspace",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Proofspace (sync disabled)"
+    },
+    {
+      "project_name": "Adjudica",
+      "github_url": "https://github.com/ArhonJay/adjudica/tree/walrus",
+      "owner": "ArhonJay",
+      "repo": "adjudica",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/adjudica (sync disabled)"
+    },
+    {
+      "project_name": "DecentraDocs",
+      "github_url": "https://github.com/taisekhame/decentradocs",
+      "owner": "taisekhame",
+      "repo": "decentradocs",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/decentradocs (sync disabled)"
+    },
+    {
+      "project_name": "Tippy",
+      "github_url": "https://github.com/perrypixel/Tippy/",
+      "owner": "perrypixel",
+      "repo": "Tippy",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Tippy (sync disabled)"
+    },
+    {
+      "project_name": "Tusk: Confidential AI Matching Protocol via TEE & Walrus",
+      "github_url": "https://github.com/SealMatch/tusk",
+      "owner": "SealMatch",
+      "repo": "tusk",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/tusk (sync disabled)"
+    },
+    {
+      "project_name": "BLOBBUSTER",
+      "github_url": "https://github.com/cannedoxygen/blockbuster",
+      "owner": "cannedoxygen",
+      "repo": "blockbuster",
+      "action": "fork",
+      "success": true,
+      "message": "Successfully forked cannedoxygen/blockbuster"
+    },
+    {
+      "project_name": "Namitix",
+      "github_url": "https://github.com/deranalabs/namitix",
+      "owner": "deranalabs",
+      "repo": "namitix",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/namitix (sync disabled)"
+    },
+    {
+      "project_name": "Fashion Recommendation System Based on Undertone and Body shape",
+      "github_url": "https://github.com/Swastika7883/Personal_Style",
+      "owner": "Swastika7883",
+      "repo": "Personal_Style",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Personal_Style (sync disabled)"
+    },
+    {
+      "project_name": "VeriForge",
+      "github_url": "https://github.com/Abbas-Dev-786/veri-forge",
+      "owner": "Abbas-Dev-786",
+      "repo": "veri-forge",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/veri-forge (sync disabled)"
+    },
+    {
+      "project_name": "ARENA",
+      "github_url": "https://github.com/VRAM-AI/arena",
+      "owner": "VRAM-AI",
+      "repo": "arena",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/arena (sync disabled)"
+    },
+    {
+      "project_name": "Walrus RuleEngine Platform",
+      "github_url": "https://github.com/hackathemy/walrus-rule-engine-platform",
+      "owner": "hackathemy",
+      "repo": "walrus-rule-engine-platform",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-rule-engine-platform (sync disabled)"
+    },
+    {
+      "project_name": "Odoben",
+      "github_url": "https://github.com/vitalspace/odoben",
+      "owner": "vitalspace",
+      "repo": "odoben",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/odoben (sync disabled)"
+    },
+    {
+      "project_name": "Crystalrohr: Vidrune",
+      "github_url": "https://github.com/kelvinpraises/vidrune",
+      "owner": "kelvinpraises",
+      "repo": "vidrune",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/vidrune (sync disabled)"
+    },
+    {
+      "project_name": "Media Provably Authentic",
+      "github_url": "https://github.com/xuanbach0212/media-provably-authentic",
+      "owner": "xuanbach0212",
+      "repo": "media-provably-authentic",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/media-provably-authentic (sync disabled)"
+    },
+    {
+      "project_name": "AI Provenance: Verifiable Model Version Control and Trust Engine.",
+      "github_url": "https://github.com/abhayshaw1601/move",
+      "owner": "abhayshaw1601",
+      "repo": "move",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/move (sync disabled)"
+    },
+    {
+      "project_name": "PlantBuddy",
+      "github_url": "https://github.com/saakshigoswami/PlantBuddy.git",
+      "owner": "saakshigoswami",
+      "repo": "PlantBuddy",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/PlantBuddy (sync disabled)"
+    },
+    {
+      "project_name": "WALRON",
+      "github_url": "https://github.com/karagozemin/walron",
+      "owner": "karagozemin",
+      "repo": "walron",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walron (sync disabled)"
+    },
+    {
+      "project_name": "StartupSeal",
+      "github_url": "https://github.com/Rohitamalraj/StartupSeal",
+      "owner": "Rohitamalraj",
+      "repo": "StartupSeal",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/StartupSeal (sync disabled)"
+    },
+    {
+      "project_name": "Bullz: Gamified Prediction Market",
+      "github_url": "https://github.com/Akpahsamuel/bullz-haulot",
+      "owner": "Akpahsamuel",
+      "repo": "bullz-haulot",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/bullz-haulot (sync disabled)"
+    },
+    {
+      "project_name": "Knowledge Center: The Free Knowledge Library for Sharing School Projects and Any File",
+      "github_url": "https://github.com/mejorat-bot/DataStorageFantasy",
+      "owner": "mejorat-bot",
+      "repo": "DataStorageFantasy",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/DataStorageFantasy (sync disabled)"
+    },
+    {
+      "project_name": "AdLotto",
+      "github_url": "https://github.com/Sui-AdLotto/overview",
+      "owner": "Sui-AdLotto",
+      "repo": "overview",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/overview (sync disabled)"
+    },
+    {
+      "project_name": "Sui Authenticator ",
+      "github_url": "https://github.com/Jovian-Dsouza/haulout-2025",
+      "owner": "Jovian-Dsouza",
+      "repo": "haulout-2025",
+      "action": "fork",
+      "success": false,
+      "message": "Repository Jovian-Dsouza/haulout-2025 not found or private"
+    },
+    {
+      "project_name": "One Eye",
+      "github_url": "https://github.com/MrSufferer/one-eyed",
+      "owner": "MrSufferer",
+      "repo": "one-eyed",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/one-eyed (sync disabled)"
+    },
+    {
+      "project_name": "CurePocket",
+      "github_url": "https://github.com/UnagiLabs/cure_pocket",
+      "owner": "UnagiLabs",
+      "repo": "cure_pocket",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/cure_pocket (sync disabled)"
+    },
+    {
+      "project_name": "Otter  Proof",
+      "github_url": "https://github.com/dethan3/OtterProof",
+      "owner": "dethan3",
+      "repo": "OtterProof",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/OtterProof (sync disabled)"
+    },
+    {
+      "project_name": "Sourcenet",
+      "github_url": "https://github.com/HusseinHato/sourcenet_fe",
+      "owner": "HusseinHato",
+      "repo": "sourcenet_fe",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sourcenet_fe (sync disabled)"
+    },
+    {
+      "project_name": "TaskOS",
+      "github_url": "https://github.com/Vietnam-Sui-Builders/taskos",
+      "owner": "Vietnam-Sui-Builders",
+      "repo": "taskos",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/taskos (sync disabled)"
+    },
+    {
+      "project_name": "DocScout | Academic Research Platform",
+      "github_url": "https://github.com/Akifcan/wallrus-hallout-hackaton",
+      "owner": "Akifcan",
+      "repo": "wallrus-hallout-hackaton",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/wallrus-hallout-hackaton (sync disabled)"
+    },
+    {
+      "project_name": "Walrus Agents",
+      "github_url": "https://github.com/johnnyduo/WalrusAgent/",
+      "owner": "johnnyduo",
+      "repo": "WalrusAgent",
+      "action": "fork",
+      "success": true,
+      "message": "Successfully forked johnnyduo/WalrusAgent"
+    },
+    {
+      "project_name": "In-Fight AMM",
+      "github_url": "https://github.com/newt0/in-fight-amm-monorepo",
+      "owner": "newt0",
+      "repo": "in-fight-amm-monorepo",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/in-fight-amm-monorepo (sync disabled)"
+    },
+    {
+      "project_name": "Auriya",
+      "github_url": "https://github.com/0xshikhar/auriya",
+      "owner": "0xshikhar",
+      "repo": "auriya",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/auriya (sync disabled)"
+    },
+    {
+      "project_name": "Spectra",
+      "github_url": "https://github.com/dantgw/spectra",
+      "owner": "dantgw",
+      "repo": "spectra",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/spectra (sync disabled)"
+    },
+    {
+      "project_name": "ExchAInge",
+      "github_url": "https://github.com/exchainge-ai/website/tree/walrus",
+      "owner": "exchainge-ai",
+      "repo": "website",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/website (sync disabled)"
+    },
+    {
+      "project_name": "Sui2Scrape",
+      "github_url": "https://github.com/technicalclipper/scrape2sui",
+      "owner": "technicalclipper",
+      "repo": "scrape2sui",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/scrape2sui (sync disabled)"
+    },
+    {
+      "project_name": "SealProof",
+      "github_url": "https://github.com/passionate-dev7/SealProof",
+      "owner": "passionate-dev7",
+      "repo": "SealProof",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SealProof (sync disabled)"
+    },
+    {
+      "project_name": "Penguin",
+      "github_url": "https://github.com/theloneson/Penguin",
+      "owner": "theloneson",
+      "repo": "Penguin",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Penguin (sync disabled)"
+    },
+    {
+      "project_name": "Songsim Label",
+      "github_url": "https://github.com/Sui-North/label-contract.git,https://github.com/Sui-North/label.git",
+      "owner": "Sui-North",
+      "repo": "label-contract.git,https:",
+      "action": "fork",
+      "success": false,
+      "message": "Repository Sui-North/label-contract.git,https: not found or private"
+    },
+    {
+      "project_name": "agent8004",
+      "github_url": "https://github.com/sudeepb02/agent8004-sui",
+      "owner": "sudeepb02",
+      "repo": "agent8004-sui",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/agent8004-sui (sync disabled)"
+    },
+    {
+      "project_name": "Pollar - Decentralized NFT DAO Voting App",
+      "github_url": "https://github.com/egekoca/Pollar",
+      "owner": "egekoca",
+      "repo": "Pollar",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Pollar (sync disabled)"
+    },
+    {
+      "project_name": "Otter Protocol",
+      "github_url": "https://github.com/0x-Cozy/Otter",
+      "owner": "0x-Cozy",
+      "repo": "Otter",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Otter (sync disabled)"
+    },
+    {
+      "project_name": "I Know Spots",
+      "github_url": "https://github.com/Ashwin-3cS/iknowspots",
+      "owner": "Ashwin-3cS",
+      "repo": "iknowspots",
+      "action": "fork",
+      "success": false,
+      "message": "Repository Ashwin-3cS/iknowspots not found or private"
+    },
+    {
+      "project_name": "ZKCredential: Zero-Knowledge Identity and Compliance Oracle",
+      "github_url": "https://github.com/0xvandesdev/zkcredential",
+      "owner": "0xvandesdev",
+      "repo": "zkcredential",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/zkcredential (sync disabled)"
+    },
+    {
+      "project_name": "Walrus PQC Audit System",
+      "github_url": "https://github.com/ARZER-TW/walrus-audit-system.git",
+      "owner": "ARZER-TW",
+      "repo": "walrus-audit-system",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-audit-system (sync disabled)"
+    },
+    {
+      "project_name": "WalTune",
+      "github_url": "https://github.com/Vikram-Singh0/WalTune",
+      "owner": "Vikram-Singh0",
+      "repo": "WalTune",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/WalTune (sync disabled)"
+    },
+    {
+      "project_name": "mothrbox",
+      "github_url": "https://github.com/georgegoldman/mothrbox_v2",
+      "owner": "georgegoldman",
+      "repo": "mothrbox_v2",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/mothrbox_v2 (sync disabled)"
+    },
+    {
+      "project_name": "pdf proof vault",
+      "github_url": "https://github.com/CoinTheHat/PDF-Vault",
+      "owner": "CoinTheHat",
+      "repo": "PDF-Vault",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/PDF-Vault (sync disabled)"
+    },
+    {
+      "project_name": "SuiMail",
+      "github_url": "https://github.com/Ozaveshe-Abdul/SUIMAIL.git",
+      "owner": "Ozaveshe-Abdul",
+      "repo": "SUIMAIL",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SUIMAIL (sync disabled)"
+    },
+    {
+      "project_name": "Satya Protocol",
+      "github_url": "https://github.com/SeventhOdyssey71/Satya",
+      "owner": "SeventhOdyssey71",
+      "repo": "Satya",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Satya (sync disabled)"
+    },
+    {
+      "project_name": "Aura",
+      "github_url": "https://github.com/june-in-exile/2025-walrus-hackathon",
+      "owner": "june-in-exile",
+      "repo": "2025-walrus-hackathon",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/2025-walrus-hackathon exists (but not a fork of june-in-exile/2025-walrus-hackathon)"
+    },
+    {
+      "project_name": "Walrus data hub",
+      "github_url": "https://github.com/OkGenius/walrus-data-hub/tree/main",
+      "owner": "OkGenius",
+      "repo": "walrus-data-hub",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-data-hub (sync disabled)"
+    },
+    {
+      "project_name": "Protocol Nine",
+      "github_url": "https://github.com/ragingrahul/haulout-mcp-marketplace",
+      "owner": "ragingrahul",
+      "repo": "haulout-mcp-marketplace",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/haulout-mcp-marketplace (sync disabled)"
+    },
+    {
+      "project_name": "Suirify",
+      "github_url": "https://github.com/suirifyprotocol/suirify",
+      "owner": "suirifyprotocol",
+      "repo": "suirify",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/suirify (sync disabled)"
+    },
+    {
+      "project_name": "Leafsii",
+      "github_url": "https://github.com/howjmay/walrus-leafsii",
+      "owner": "howjmay",
+      "repo": "walrus-leafsii",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-leafsii (sync disabled)"
+    },
+    {
+      "project_name": "Inkblob",
+      "github_url": "https://github.com/SuLabsOrg/inkblob",
+      "owner": "SuLabsOrg",
+      "repo": "inkblob",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/inkblob (sync disabled)"
+    },
+    {
+      "project_name": "Sealed Encrypted Blog",
+      "github_url": "https://github.com/Tools-touch/Sealed-Encrypted-Blog",
+      "owner": "Tools-touch",
+      "repo": "Sealed-Encrypted-Blog",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Sealed-Encrypted-Blog (sync disabled)"
+    },
+    {
+      "project_name": "Walrus_Event",
+      "github_url": "https://github.com/wawahejun/Walrus_Event",
+      "owner": "wawahejun",
+      "repo": "Walrus_Event",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Walrus_Event (sync disabled)"
+    },
+    {
+      "project_name": "Puffin",
+      "github_url": "https://github.com/Zireaelst/Hive",
+      "owner": "Zireaelst",
+      "repo": "Hive",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Hive (sync disabled)"
+    },
+    {
+      "project_name": "draftsHub",
+      "github_url": "https://github.com/Ashley-code396/drafts-hub.git",
+      "owner": "Ashley-code396",
+      "repo": "drafts-hub",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/drafts-hub (sync disabled)"
+    },
+    {
+      "project_name": "CONSO Labs",
+      "github_url": "https://github.com/conso-labs/conso-app",
+      "owner": "conso-labs",
+      "repo": "conso-app",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/conso-app (sync disabled)"
+    },
+    {
+      "project_name": "Suience",
+      "github_url": "https://github.com/DrEverr/Suience",
+      "owner": "DrEverr",
+      "repo": "Suience",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Suience (sync disabled)"
+    },
+    {
+      "project_name": "ZeroVault",
+      "github_url": "https://github.com/irajgill/ZeroVault",
+      "owner": "irajgill",
+      "repo": "ZeroVault",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ZeroVault (sync disabled)"
+    },
+    {
+      "project_name": "Zing Protocol",
+      "github_url": "https://github.com/orgs/ZingHall/repositories",
+      "owner": "orgs",
+      "repo": "ZingHall",
+      "action": "fork",
+      "success": false,
+      "message": "Repository orgs/ZingHall not found or private"
+    },
+    {
+      "project_name": "Dwello",
+      "github_url": "https://github.com/emmystark/Dwello",
+      "owner": "emmystark",
+      "repo": "Dwello",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Dwello (sync disabled)"
+    },
+    {
+      "project_name": "MicroData Market ",
+      "github_url": "https://github.com/ifezuemarilyn62-png/MicroData-Market",
+      "owner": "ifezuemarilyn62-png",
+      "repo": "MicroData-Market",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/MicroData-Market (sync disabled)"
+    },
+    {
+      "project_name": "Sirius",
+      "github_url": "https://github.com/alibenyezza/hackathon_Walrus_ARA",
+      "owner": "alibenyezza",
+      "repo": "hackathon_Walrus_ARA",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/hackathon_Walrus_ARA (sync disabled)"
+    },
+    {
+      "project_name": "TruthChain",
+      "github_url": "https://github.com/Osiyomeoh/TruthChain",
+      "owner": "Osiyomeoh",
+      "repo": "TruthChain",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/TruthChain (sync disabled)"
+    },
+    {
+      "project_name": "verakita",
+      "github_url": "https://github.com/mcqueenblue/verakita",
+      "owner": "mcqueenblue",
+      "repo": "verakita",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/verakita (sync disabled)"
+    },
+    {
+      "project_name": "The Pursuit of Fairness",
+      "github_url": "https://github.com/dkwhitedevil/The-Pursuit-of-Fairness",
+      "owner": "dkwhitedevil",
+      "repo": "The-Pursuit-of-Fairness",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/The-Pursuit-of-Fairness (sync disabled)"
+    },
+    {
+      "project_name": "Storarc",
+      "github_url": "https://github.com/SiddharthManjul/Storarc",
+      "owner": "SiddharthManjul",
+      "repo": "Storarc",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Storarc (sync disabled)"
+    },
+    {
+      "project_name": "SUIME",
+      "github_url": "https://github.com/GoSTEAN/SUIME.git",
+      "owner": "GoSTEAN",
+      "repo": "SUIME",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SUIME (sync disabled)"
+    },
+    {
+      "project_name": "Percepta",
+      "github_url": "https://github.com/CHAKRADHAR98/Percepta_Walrus",
+      "owner": "CHAKRADHAR98",
+      "repo": "Percepta_Walrus",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Percepta_Walrus (sync disabled)"
+    },
+    {
+      "project_name": "Terra Proof",
+      "github_url": "https://github.com/artomilydev/terra-proof",
+      "owner": "artomilydev",
+      "repo": "terra-proof",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/terra-proof (sync disabled)"
+    },
+    {
+      "project_name": "Ghost Context",
+      "github_url": "https://github.com/soumyacodes007/Ghost_context_1",
+      "owner": "soumyacodes007",
+      "repo": "Ghost_context_1",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Ghost_context_1 (sync disabled)"
+    },
+    {
+      "project_name": "TLT",
+      "github_url": "https://github.com/N-45div/TLT",
+      "owner": "N-45div",
+      "repo": "TLT",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/TLT (sync disabled)"
+    },
+    {
+      "project_name": "CallerId",
+      "github_url": "https://github.com/cadalt0/CallerID",
+      "owner": "cadalt0",
+      "repo": "CallerID",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/CallerID (sync disabled)"
+    },
+    {
+      "project_name": "ContentLab",
+      "github_url": "https://github.com/BEEJAYOFGOD/contentlab",
+      "owner": "BEEJAYOFGOD",
+      "repo": "contentlab",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/contentlab (sync disabled)"
+    },
+    {
+      "project_name": "VYRA - Privacy Protocol ",
+      "github_url": "https://github.com/0xTaneja/VYRA-Protocol",
+      "owner": "0xTaneja",
+      "repo": "VYRA-Protocol",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/VYRA-Protocol (sync disabled)"
+    },
+    {
+      "project_name": "mnemosyne",
+      "github_url": "https://github.com/BillDuke13/mnemosyne",
+      "owner": "BillDuke13",
+      "repo": "mnemosyne",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/mnemosyne (sync disabled)"
+    },
+    {
+      "project_name": "Decentralized Book Registry (SuiPortal)",
+      "github_url": "https://github.com/TCROWN10/Suiportal",
+      "owner": "TCROWN10",
+      "repo": "Suiportal",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Suiportal (sync disabled)"
+    },
+    {
+      "project_name": "Shutter",
+      "github_url": "https://github.com/AirZED/shutter",
+      "owner": "AirZED",
+      "repo": "shutter",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/shutter (sync disabled)"
+    },
+    {
+      "project_name": "Trixxy - Sui MarketPlace",
+      "github_url": "https://github.com/redcrane1122/sui-marketplace.git",
+      "owner": "redcrane1122",
+      "repo": "sui-marketplace",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sui-marketplace (sync disabled)"
+    },
+    {
+      "project_name": "Suimo",
+      "github_url": "https://github.com/chigozzdevv/suimo",
+      "owner": "chigozzdevv",
+      "repo": "suimo",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/suimo (sync disabled)"
+    },
+    {
+      "project_name": "Evala – Decentralized Human Validation Engine on Sui & Walrus",
+      "github_url": "https://github.com/nabil-repo/EVALA",
+      "owner": "nabil-repo",
+      "repo": "EVALA",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/EVALA (sync disabled)"
+    },
+    {
+      "project_name": "Archive Chain",
+      "github_url": "https://github.com/SohamJuneja/ArchiveChain",
+      "owner": "SohamJuneja",
+      "repo": "ArchiveChain",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ArchiveChain (sync disabled)"
+    },
+    {
+      "project_name": "Bowhead Whale - D OAuth Infrastructure",
+      "github_url": "https://github.com/jimliudev/Bowhead-Whale---D-OAuth",
+      "owner": "jimliudev",
+      "repo": "Bowhead-Whale---D-OAuth",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Bowhead-Whale---D-OAuth (sync disabled)"
+    },
+    {
+      "project_name": "LexiBattle",
+      "github_url": "https://github.com/MohanKumarMurugan/LexiBattle-V2",
+      "owner": "MohanKumarMurugan",
+      "repo": "LexiBattle-V2",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/LexiBattle-V2 (sync disabled)"
+    },
+    {
+      "project_name": "Blockchain_J.A.R.V.I.S",
+      "github_url": "https://github.com/Adidem23/Blockchain_J.A.R.V.I.S",
+      "owner": "Adidem23",
+      "repo": "Blockchain_J.A.R.V.I.S",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Blockchain_J.A.R.V.I.S (sync disabled)"
+    },
+    {
+      "project_name": "DeTransfer",
+      "github_url": "https://github.com/anbusan19/detransfer",
+      "owner": "anbusan19",
+      "repo": "detransfer",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/detransfer exists (but not a fork of anbusan19/detransfer)"
+    },
+    {
+      "project_name": "KYCHook",
+      "github_url": "https://github.com/veithly/KYCHook",
+      "owner": "veithly",
+      "repo": "KYCHook",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/KYCHook (sync disabled)"
+    },
+    {
+      "project_name": "ValtGuard",
+      "github_url": "https://github.com/Krishnav1237/walrus-hackathon",
+      "owner": "Krishnav1237",
+      "repo": "walrus-hackathon",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-hackathon (sync disabled)"
+    },
+    {
+      "project_name": "Label.fi",
+      "github_url": "https://github.com/StarryDeserts/Label.fi",
+      "owner": "StarryDeserts",
+      "repo": "Label.fi",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Label.fi (sync disabled)"
+    },
+    {
+      "project_name": "GuaFi",
+      "github_url": "https://github.com/EATMove/guafi",
+      "owner": "EATMove",
+      "repo": "guafi",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/guafi (sync disabled)"
+    },
+    {
+      "project_name": "Xhare",
+      "github_url": "https://github.com/organizations/XhareRepo/",
+      "owner": "organizations",
+      "repo": "XhareRepo",
+      "action": "fork",
+      "success": false,
+      "message": "Repository organizations/XhareRepo not found or private"
+    },
+    {
+      "project_name": "WalBox",
+      "github_url": "https://github.com/Sui-North/WalBox.git",
+      "owner": "Sui-North",
+      "repo": "WalBox",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/WalBox (sync disabled)"
+    },
+    {
+      "project_name": "Passman",
+      "github_url": "https://github.com/dam2onkid/passman",
+      "owner": "dam2onkid",
+      "repo": "passman",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/passman (sync disabled)"
+    },
+    {
+      "project_name": "Sui Resume",
+      "github_url": "https://github.com/MuskChi/Sui-Resume",
+      "owner": "MuskChi",
+      "repo": "Sui-Resume",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Sui-Resume (sync disabled)"
+    },
+    {
+      "project_name": "Neptune",
+      "github_url": "https://github.com/manolaz/neptune-d-app-walrus",
+      "owner": "manolaz",
+      "repo": "neptune-d-app-walrus",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/neptune-d-app-walrus (sync disabled)"
+    },
+    {
+      "project_name": "CloakX",
+      "github_url": "https://github.com/0xNilesh/CloakX",
+      "owner": "0xNilesh",
+      "repo": "CloakX",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/CloakX (sync disabled)"
+    },
+    {
+      "project_name": "INFINITE HEROES",
+      "github_url": "https://github.com/AnhQuan2004/comics_web3",
+      "owner": "AnhQuan2004",
+      "repo": "comics_web3",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/comics_web3 exists (but not a fork of AnhQuan2004/comics_web3)"
+    },
+    {
+      "project_name": "WalrusStamp",
+      "github_url": "https://github.com/onurgncode/walrustamp",
+      "owner": "onurgncode",
+      "repo": "walrustamp",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrustamp (sync disabled)"
+    },
+    {
+      "project_name": "Nautilus‑JS",
+      "github_url": "https://github.com/nautilus-templates/nautilus-js",
+      "owner": "nautilus-templates",
+      "repo": "nautilus-js",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/nautilus-js exists (but not a fork of nautilus-templates/nautilus-js)"
+    },
+    {
+      "project_name": "Walrus-Sentinel",
+      "github_url": "https://github.com/zeynepozatass/Walrus-Sentinel",
+      "owner": "zeynepozatass",
+      "repo": "Walrus-Sentinel",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Walrus-Sentinel (sync disabled)"
+    },
+    {
+      "project_name": "Walottery",
+      "github_url": "https://github.com/krypt0n123/Walottery",
+      "owner": "krypt0n123",
+      "repo": "Walottery",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Walottery (sync disabled)"
+    },
+    {
+      "project_name": "Seal Red Packet",
+      "github_url": "https://github.com/summertoo/sealred2",
+      "owner": "summertoo",
+      "repo": "sealred2",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sealred2 (sync disabled)"
+    },
+    {
+      "project_name": "Mist Protocol",
+      "github_url": "https://github.com/nikola0x0/mist-protocol",
+      "owner": "nikola0x0",
+      "repo": "mist-protocol",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/mist-protocol (sync disabled)"
+    },
+    {
+      "project_name": "Find The Seer",
+      "github_url": "https://github.com/404ll/Find-the-Seer/",
+      "owner": "404ll",
+      "repo": "Find-the-Seer",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Find-the-Seer (sync disabled)"
+    },
+    {
+      "project_name": "Proof Of Train Oracle",
+      "github_url": "https://github.com/Fekpe/PROOF-TRAIN-ORACLE",
+      "owner": "Fekpe",
+      "repo": "PROOF-TRAIN-ORACLE",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/PROOF-TRAIN-ORACLE (sync disabled)"
+    },
+    {
+      "project_name": "ODX",
+      "github_url": "https://github.com/Maa-ly/OX",
+      "owner": "Maa-ly",
+      "repo": "OX",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/OX (sync disabled)"
+    },
+    {
+      "project_name": "paperplane",
+      "github_url": "https://github.com/dyingforge/PaperAirplane",
+      "owner": "dyingforge",
+      "repo": "PaperAirplane",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/PaperAirplane (sync disabled)"
+    },
+    {
+      "project_name": "Canary",
+      "github_url": "https://github.com/chitaolang/canary",
+      "owner": "chitaolang",
+      "repo": "canary",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/canary (sync disabled)"
+    },
+    {
+      "project_name": "OracleMarket",
+      "github_url": "https://github.com/RealGuxxxx/OracleMarket",
+      "owner": "RealGuxxxx",
+      "repo": "OracleMarket",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/OracleMarket (sync disabled)"
+    },
+    {
+      "project_name": "Suitter",
+      "github_url": "https://github.com/Sui-North/Suitter",
+      "owner": "Sui-North",
+      "repo": "Suitter",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Suitter (sync disabled)"
+    },
+    {
+      "project_name": "Cypheron",
+      "github_url": "https://github.com/DeepeshKalura/cypheron",
+      "owner": "DeepeshKalura",
+      "repo": "cypheron",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/cypheron (sync disabled)"
+    },
+    {
+      "project_name": "WALiors - Adaptive AI dungeon crawler RPG",
+      "github_url": "https://github.com/leonyon/haulout-ai-rpg-proto/",
+      "owner": "leonyon",
+      "repo": "haulout-ai-rpg-proto",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/haulout-ai-rpg-proto (sync disabled)"
+    },
+    {
+      "project_name": "Dandline",
+      "github_url": "https://github.com/wwx505/Dandelion",
+      "owner": "wwx505",
+      "repo": "Dandelion",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Dandelion (sync disabled)"
+    },
+    {
+      "project_name": "Lockin",
+      "github_url": "https://github.com/oraekene/LOCKin",
+      "owner": "oraekene",
+      "repo": "LOCKin",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/LOCKin (sync disabled)"
+    },
+    {
+      "project_name": "OwnlyFans",
+      "github_url": "https://github.com/x24870/ownlyfans",
+      "owner": "x24870",
+      "repo": "ownlyfans",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ownlyfans (sync disabled)"
+    },
+    {
+      "project_name": "Pass.Me",
+      "github_url": "https://github.com/MohamedAshiq09/pass.me",
+      "owner": "MohamedAshiq09",
+      "repo": "pass.me",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/pass.me (sync disabled)"
+    },
+    {
+      "project_name": "SANCHAYSETU",
+      "github_url": "https://github.com/Harshsawarn/SANCHAYSETU",
+      "owner": "Harshsawarn",
+      "repo": "SANCHAYSETU",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SANCHAYSETU (sync disabled)"
+    },
+    {
+      "project_name": "SuiGuard",
+      "github_url": "https://github.com/ANAVHEOBA/SuiGuard https://github.com/ANAVHEOBA/suiguard-frontend  https://github.com/ANAVHEOBA/SuiGuard-Communications",
+      "owner": "ANAVHEOBA",
+      "repo": "SuiGuard https:",
+      "action": "fork",
+      "success": false,
+      "message": "Repository ANAVHEOBA/SuiGuard https: not found or private"
+    },
+    {
+      "project_name": "TravelNFT",
+      "github_url": "https://github.com/TianTOvO/TravelNFT",
+      "owner": "TianTOvO",
+      "repo": "TravelNFT",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/TravelNFT (sync disabled)"
+    },
+    {
+      "project_name": "Chronos",
+      "github_url": "https://github.com/hien-p/chronos",
+      "owner": "hien-p",
+      "repo": "chronos",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/chronos (sync disabled)"
+    },
+    {
+      "project_name": "WalSign",
+      "github_url": "https://github.com/tech-geek090/wal-sign-contract/tree/main",
+      "owner": "tech-geek090",
+      "repo": "wal-sign-contract",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/wal-sign-contract (sync disabled)"
+    },
+    {
+      "project_name": "Krill Tube",
+      "github_url": "https://github.com/3MateLabs/KrillTube-frontend/tree/walrus-haulout",
+      "owner": "3MateLabs",
+      "repo": "KrillTube-frontend",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/KrillTube-frontend (sync disabled)"
+    },
+    {
+      "project_name": "AIDOL 101 : DATA ALLY",
+      "github_url": "https://github.com/jp-pulse9-test/sui-idol3",
+      "owner": "jp-pulse9-test",
+      "repo": "sui-idol3",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sui-idol3 (sync disabled)"
+    },
+    {
+      "project_name": "Aver.Email - a trustless, privacy-friendly email verification and attestation protocol",
+      "github_url": "https://github.com/thithiri/aver-email",
+      "owner": "thithiri",
+      "repo": "aver-email",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/aver-email (sync disabled)"
+    },
+    {
+      "project_name": "Jessea | Pure fluidity",
+      "github_url": "https://github.com/tuanhqv123/sui_mail",
+      "owner": "tuanhqv123",
+      "repo": "sui_mail",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sui_mail (sync disabled)"
+    },
+    {
+      "project_name": "Echoma | Applications of Emotional Data",
+      "github_url": "https://github.com/ww11632/echoma",
+      "owner": "ww11632",
+      "repo": "echoma",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/echoma (sync disabled)"
+    },
+    {
+      "project_name": "Isowopo",
+      "github_url": "https://github.com/steelthedev/isowopo",
+      "owner": "steelthedev",
+      "repo": "isowopo",
+      "action": "fork",
+      "success": false,
+      "message": "Repository steelthedev/isowopo not found or private"
+    },
+    {
+      "project_name": "perma.ws - provable, verifiable and permanent web archives",
+      "github_url": "https://github.com/thithiri/perma-ws",
+      "owner": "thithiri",
+      "repo": "perma-ws",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/perma-ws (sync disabled)"
+    },
+    {
+      "project_name": "KissyFace.xyz 😘 -  the future of responsible and provable AI content generation ecosystem",
+      "github_url": "https://github.com/thithiri/kissyface-xyz",
+      "owner": "thithiri",
+      "repo": "kissyface-xyz",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/kissyface-xyz (sync disabled)"
+    },
+    {
+      "project_name": "Fathom-0x Protocol",
+      "github_url": "https://github.com/anynomousfriend/Fathom-0x",
+      "owner": "anynomousfriend",
+      "repo": "Fathom-0x",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Fathom-0x (sync disabled)"
+    },
+    {
+      "project_name": "BlobSea",
+      "github_url": "https://github.com/Coooder-Crypto/BlobSea",
+      "owner": "Coooder-Crypto",
+      "repo": "BlobSea",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/BlobSea (sync disabled)"
+    },
+    {
+      "project_name": "Dr.Sui",
+      "github_url": "https://github.com/wifimoney/DrSui",
+      "owner": "wifimoney",
+      "repo": "DrSui",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/DrSui (sync disabled)"
+    },
+    {
+      "project_name": "Walrus Estate",
+      "github_url": "https://github.com/deranalabs/walrus-estate",
+      "owner": "deranalabs",
+      "repo": "walrus-estate",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-estate (sync disabled)"
+    },
+    {
+      "project_name": "SunChain",
+      "github_url": "https://github.com/SirIsarck/SunChain_Sui",
+      "owner": "SirIsarck",
+      "repo": "SunChain_Sui",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SunChain_Sui (sync disabled)"
+    },
+    {
+      "project_name": "TGE DCA Vault",
+      "github_url": "https://github.com/ALIPHATICHYD/TGE-DCA",
+      "owner": "ALIPHATICHYD",
+      "repo": "TGE-DCA",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/TGE-DCA (sync disabled)"
+    },
+    {
+      "project_name": "wal-bookmark",
+      "github_url": "https://github.com/ph2017/wal-bookmark",
+      "owner": "ph2017",
+      "repo": "wal-bookmark",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/wal-bookmark (sync disabled)"
+    },
+    {
+      "project_name": "OC Network",
+      "github_url": "https://github.com/etboodXJ/ocnetwork",
+      "owner": "etboodXJ",
+      "repo": "ocnetwork",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ocnetwork (sync disabled)"
+    },
+    {
+      "project_name": "OneTube",
+      "github_url": "https://github.com/YuseiWhite/one-tube",
+      "owner": "YuseiWhite",
+      "repo": "one-tube",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/one-tube (sync disabled)"
+    },
+    {
+      "project_name": "Nereus",
+      "github_url": "https://github.com/ZzyzxLabs/Nereus",
+      "owner": "ZzyzxLabs",
+      "repo": "Nereus",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Nereus (sync disabled)"
+    },
+    {
+      "project_name": "TradeArena",
+      "github_url": "https://github.com/pisuthd/trade-arena",
+      "owner": "pisuthd",
+      "repo": "trade-arena",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/trade-arena (sync disabled)"
+    },
+    {
+      "project_name": "IoTrade",
+      "github_url": "https://github.com/tantasui/IoTrade",
+      "owner": "tantasui",
+      "repo": "IoTrade",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/IoTrade (sync disabled)"
+    },
+    {
+      "project_name": "DATAVA",
+      "github_url": "https://github.com/raflimulyarahman/DATAVA",
+      "owner": "raflimulyarahman",
+      "repo": "DATAVA",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/DATAVA (sync disabled)"
+    },
+    {
+      "project_name": "Walmagotchi",
+      "github_url": "https://github.com/nhatlapross/Walmagochi",
+      "owner": "nhatlapross",
+      "repo": "Walmagochi",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Walmagochi (sync disabled)"
+    },
+    {
+      "project_name": "Lumina",
+      "github_url": "https://github.com/frederickemerson/Lumina",
+      "owner": "frederickemerson",
+      "repo": "Lumina",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Lumina (sync disabled)"
+    },
+    {
+      "project_name": "WalDrive",
+      "github_url": "https://github.com/rootp1/WalDrive",
+      "owner": "rootp1",
+      "repo": "WalDrive",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/WalDrive (sync disabled)"
+    },
+    {
+      "project_name": "AquaPrime Video",
+      "github_url": "https://github.com/siphonelee/aqua_prime",
+      "owner": "siphonelee",
+      "repo": "aqua_prime",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/aqua_prime (sync disabled)"
+    },
+    {
+      "project_name": "Safekey",
+      "github_url": "https://github.com/TeamXSui/safekey",
+      "owner": "TeamXSui",
+      "repo": "safekey",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/safekey (sync disabled)"
+    },
+    {
+      "project_name": "DataHaven",
+      "github_url": "https://github.com/uncletom29/datahaven",
+      "owner": "uncletom29",
+      "repo": "datahaven",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/datahaven exists (but not a fork of uncletom29/datahaven)"
+    },
+    {
+      "project_name": "Prompt Sui",
+      "github_url": "https://github.com/gjyakhwa1/prompt-sui/",
+      "owner": "gjyakhwa1",
+      "repo": "prompt-sui",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/prompt-sui (sync disabled)"
+    },
+    {
+      "project_name": "Violet -Onchain Linktree",
+      "github_url": "https://github.com/egekoca/Violet-App",
+      "owner": "egekoca",
+      "repo": "Violet-App",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Violet-App (sync disabled)"
+    },
+    {
+      "project_name": "Nautilus Vault",
+      "github_url": "https://github.com/kamalbuilds/nautilus-vault",
+      "owner": "kamalbuilds",
+      "repo": "nautilus-vault",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/nautilus-vault (sync disabled)"
+    },
+    {
+      "project_name": "Devhub",
+      "github_url": "https://github.com/abubakarim78/devhub-dapp.git",
+      "owner": "abubakarim78",
+      "repo": "devhub-dapp",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/devhub-dapp (sync disabled)"
+    },
+    {
+      "project_name": "Fedrus",
+      "github_url": "https://github.com/Philotheephilix/fedrus",
+      "owner": "Philotheephilix",
+      "repo": "fedrus",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/fedrus (sync disabled)"
+    },
+    {
+      "project_name": "SuiSign",
+      "github_url": "https://github.com/KaranSinghBisht/suisign",
+      "owner": "KaranSinghBisht",
+      "repo": "suisign",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/suisign (sync disabled)"
+    },
+    {
+      "project_name": "KAI",
+      "github_url": "https://github.com/Rajshah1302/KAI",
+      "owner": "Rajshah1302",
+      "repo": "KAI",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/KAI (sync disabled)"
+    },
+    {
+      "project_name": "DeFi-AI-Credit-Sentinel（CSFI）",
+      "github_url": "https://github.com/YYYYYCanYue/Haulout2025-DeFi-AI---Credit-Sentinel",
+      "owner": "YYYYYCanYue",
+      "repo": "Haulout2025-DeFi-AI---Credit-Sentinel",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Haulout2025-DeFi-AI---Credit-Sentinel (sync disabled)"
+    },
+    {
+      "project_name": "Coral  (From Your Vault to Value: Write in Obsidian, Sync with VaultBridge, Monetize on Coral.)",
+      "github_url": "https://github.com/jethrozz/Coral",
+      "owner": "jethrozz",
+      "repo": "Coral",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Coral (sync disabled)"
+    },
+    {
+      "project_name": "ColdCache",
+      "github_url": "https://github.com/web3-coderyash/ColdCache/",
+      "owner": "web3-coderyash",
+      "repo": "ColdCache",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ColdCache (sync disabled)"
+    },
+    {
+      "project_name": "Checkin Memory NFT",
+      "github_url": "https://github.com/helloquocbao/checkin_NFT_walrus_haulout",
+      "owner": "helloquocbao",
+      "repo": "checkin_NFT_walrus_haulout",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/checkin_NFT_walrus_haulout (sync disabled)"
+    },
+    {
+      "project_name": "Walrus Scout",
+      "github_url": "https://github.com/yashpunmiya/Walrus-Scout",
+      "owner": "yashpunmiya",
+      "repo": "Walrus-Scout",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Walrus-Scout (sync disabled)"
+    },
+    {
+      "project_name": "Orbiton A.I Agent",
+      "github_url": "https://github.com/Orbiton-labs/decentralize-orbiton-ai-agent",
+      "owner": "Orbiton-labs",
+      "repo": "decentralize-orbiton-ai-agent",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/decentralize-orbiton-ai-agent (sync disabled)"
+    },
+    {
+      "project_name": "ScholarSync-Track. Analyze. Improve.",
+      "github_url": "https://github.com/palakmadewar/ScholarSync",
+      "owner": "palakmadewar",
+      "repo": "ScholarSync",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ScholarSync (sync disabled)"
+    },
+    {
+      "project_name": "zkDungeon",
+      "github_url": "https://github.com/0xwonj/dungeon",
+      "owner": "0xwonj",
+      "repo": "dungeon",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/dungeon (sync disabled)"
+    },
+    {
+      "project_name": "Mosaic",
+      "github_url": "https://github.com/manolaz/mosaic-sui-walrus-haulot-2025",
+      "owner": "manolaz",
+      "repo": "mosaic-sui-walrus-haulot-2025",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/mosaic-sui-walrus-haulot-2025 (sync disabled)"
+    },
+    {
+      "project_name": "ZerotoWeb3 - Learn Web3 from zero, the simple way",
+      "github_url": "https://github.com/LuckyResearchOrg/zerotoweb3",
+      "owner": "LuckyResearchOrg",
+      "repo": "zerotoweb3",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/zerotoweb3 (sync disabled)"
+    },
+    {
+      "project_name": "Maou Protocol",
+      "github_url": "https://github.com/rstfulzz/MaouProtocol",
+      "owner": "rstfulzz",
+      "repo": "MaouProtocol",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/MaouProtocol (sync disabled)"
+    },
+    {
+      "project_name": "TimeHut",
+      "github_url": "https://github.com/JasonRUAN/TimeHut",
+      "owner": "JasonRUAN",
+      "repo": "TimeHut",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/TimeHut (sync disabled)"
+    },
+    {
+      "project_name": "SuiPatreon",
+      "github_url": "https://github.com/seallabs/sui-patreon",
+      "owner": "seallabs",
+      "repo": "sui-patreon",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sui-patreon (sync disabled)"
+    },
+    {
+      "project_name": "Nabu",
+      "github_url": "https://github.com/Nnadivictory25/Nabu",
+      "owner": "Nnadivictory25",
+      "repo": "Nabu",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Nabu (sync disabled)"
+    },
+    {
+      "project_name": "KIZUNA",
+      "github_url": "https://github.com/shizuku355/KIZUNA",
+      "owner": "shizuku355",
+      "repo": "KIZUNA",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/KIZUNA (sync disabled)"
+    },
+    {
+      "project_name": "💎 Walroad: Your Product, Your Rules.",
+      "github_url": "https://github.com/sekaiking/walroad",
+      "owner": "sekaiking",
+      "repo": "walroad",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walroad (sync disabled)"
+    },
+    {
+      "project_name": "Foundry",
+      "github_url": "https://github.com/makimakiver/Foundry",
+      "owner": "makimakiver",
+      "repo": "Foundry",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Foundry (sync disabled)"
+    },
+    {
+      "project_name": "MoveAS",
+      "github_url": "https://github.com/BoringIdea/move-as",
+      "owner": "BoringIdea",
+      "repo": "move-as",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/move-as (sync disabled)"
+    },
+    {
+      "project_name": "DataFlow (Powered by Noodles.fi)",
+      "github_url": "https://github.com/minswap/dataflow",
+      "owner": "minswap",
+      "repo": "dataflow",
+      "action": "fork",
+      "success": false,
+      "message": "Repository minswap/dataflow not found or private"
+    },
+    {
+      "project_name": "SuiHashTrend",
+      "github_url": "https://github.com/lehuubao1810/SuiHashTrend",
+      "owner": "lehuubao1810",
+      "repo": "SuiHashTrend",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SuiHashTrend (sync disabled)"
+    },
+    {
+      "project_name": "Delphi",
+      "github_url": "https://github.com/SpiralOutDotEu/delphi",
+      "owner": "SpiralOutDotEu",
+      "repo": "delphi",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/delphi (sync disabled)"
+    },
+    {
+      "project_name": "Beluga  | EVM Gateway to Walrus",
+      "github_url": "https://github.com/Akifcan/beluga",
+      "owner": "Akifcan",
+      "repo": "beluga",
+      "action": "fork",
+      "success": false,
+      "message": "Repository Akifcan/beluga not found or private"
+    },
+    {
+      "project_name": "HydraProtocol",
+      "github_url": "https://github.com/ybc112/HydraProtocol",
+      "owner": "ybc112",
+      "repo": "HydraProtocol",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/HydraProtocol (sync disabled)"
+    },
+    {
+      "project_name": "Wellness Journal",
+      "github_url": "https://github.com/VAWGG/Wellness-Journal-Haulout",
+      "owner": "VAWGG",
+      "repo": "Wellness-Journal-Haulout",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Wellness-Journal-Haulout (sync disabled)"
+    },
+    {
+      "project_name": "Atrium",
+      "github_url": "https://github.com/231-Labs/Atrium",
+      "owner": "231-Labs",
+      "repo": "Atrium",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Atrium (sync disabled)"
+    },
+    {
+      "project_name": "SuiSign",
+      "github_url": "https://github.com/huisq/suisign",
+      "owner": "huisq",
+      "repo": "suisign",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/suisign exists (but not a fork of huisq/suisign)"
+    },
+    {
+      "project_name": "WalrusPromptMarket",
+      "github_url": "https://github.com/yueliao11/Prompt-LoRA-Mini-Market",
+      "owner": "yueliao11",
+      "repo": "Prompt-LoRA-Mini-Market",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Prompt-LoRA-Mini-Market (sync disabled)"
+    },
+    {
+      "project_name": "Data Forge",
+      "github_url": "https://github.com/Victor4life/dataforge",
+      "owner": "Victor4life",
+      "repo": "dataforge",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/dataforge (sync disabled)"
+    },
+    {
+      "project_name": "Attenda",
+      "github_url": "https://github.com/zhiming817/Attenda",
+      "owner": "zhiming817",
+      "repo": "Attenda",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Attenda (sync disabled)"
+    },
+    {
+      "project_name": "Walrus Model Hub",
+      "github_url": "https://github.com/hu-qi/walrus-hub",
+      "owner": "hu-qi",
+      "repo": "walrus-hub",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-hub (sync disabled)"
+    },
+    {
+      "project_name": "WalrusDB",
+      "github_url": "https://github.com/Emmanuelmelvin/walrusDB",
+      "owner": "Emmanuelmelvin",
+      "repo": "walrusDB",
+      "action": "fork",
+      "success": false,
+      "message": "Repository Emmanuelmelvin/walrusDB not found or private"
+    },
+    {
+      "project_name": "ResumeVault",
+      "github_url": "https://github.com/zhiming817/web3JobX402.git",
+      "owner": "zhiming817",
+      "repo": "web3JobX402",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/web3JobX402 (sync disabled)"
+    },
+    {
+      "project_name": "wang_shoes_store",
+      "github_url": "https://github.com/Gavinzip/walrus_project.git",
+      "owner": "Gavinzip",
+      "repo": "walrus_project",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus_project (sync disabled)"
+    },
+    {
+      "project_name": "TruthVault - Store Once. Prove Forever. AI You Can Trust.",
+      "github_url": "https://github.com/yash-0025/TruthVault",
+      "owner": "yash-0025",
+      "repo": "TruthVault",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/TruthVault (sync disabled)"
+    },
+    {
+      "project_name": "web3fans",
+      "github_url": "https://github.com/clownfish2023/web3fans.git",
+      "owner": "clownfish2023",
+      "repo": "web3fans",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/web3fans (sync disabled)"
+    },
+    {
+      "project_name": "Web3Insight",
+      "github_url": "https://github.com/web3insight-ai/web3insight",
+      "owner": "web3insight-ai",
+      "repo": "web3insight",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/web3insight (sync disabled)"
+    },
+    {
+      "project_name": "Sui Arena",
+      "github_url": "https://github.com/dwk601/sui-arena",
+      "owner": "dwk601",
+      "repo": "sui-arena",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sui-arena (sync disabled)"
+    },
+    {
+      "project_name": "StarFish",
+      "github_url": "https://github.com/juSt-jeLLy/StarFish-",
+      "owner": "juSt-jeLLy",
+      "repo": "StarFish-",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/StarFish- (sync disabled)"
+    },
+    {
+      "project_name": "Storewave",
+      "github_url": "https://github.com/razvanstatescu/walrus-storage-marketplace",
+      "owner": "razvanstatescu",
+      "repo": "walrus-storage-marketplace",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus-storage-marketplace (sync disabled)"
+    },
+    {
+      "project_name": "Sui-DAT: Decentralized AI Training Platform",
+      "github_url": "https://github.com/lavudyaraja/sui_frontend_backend_platform",
+      "owner": "lavudyaraja",
+      "repo": "sui_frontend_backend_platform",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sui_frontend_backend_platform (sync disabled)"
+    },
+    {
+      "project_name": "ImHuman Protocol",
+      "github_url": "https://github.com/TarasBrilian/im-human-protocol",
+      "owner": "TarasBrilian",
+      "repo": "im-human-protocol",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/im-human-protocol (sync disabled)"
+    },
+    {
+      "project_name": "DataWave",
+      "github_url": "https://github.com/baicaiyihao/DataWave",
+      "owner": "baicaiyihao",
+      "repo": "DataWave",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/DataWave (sync disabled)"
+    },
+    {
+      "project_name": "Zelf",
+      "github_url": "https://github.com/Open-Verifik/zelf-extension/tree/haulout",
+      "owner": "Open-Verifik",
+      "repo": "zelf-extension",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/zelf-extension (sync disabled)"
+    },
+    {
+      "project_name": "ProofPlay",
+      "github_url": "https://github.com/uuzor/proofplay",
+      "owner": "uuzor",
+      "repo": "proofplay",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/proofplay (sync disabled)"
+    },
+    {
+      "project_name": "FaceGuard",
+      "github_url": "https://github.com/LevCey/FaceGuard/",
+      "owner": "LevCey",
+      "repo": "FaceGuard",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/FaceGuard (sync disabled)"
+    },
+    {
+      "project_name": "SuiHuman",
+      "github_url": "https://github.com/ronaldo-pixel/SuiHuman",
+      "owner": "ronaldo-pixel",
+      "repo": "SuiHuman",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SuiHuman (sync disabled)"
+    },
+    {
+      "project_name": "GenShakti",
+      "github_url": "https://github.com/URAYUSHJAIN/GenShakti",
+      "owner": "URAYUSHJAIN",
+      "repo": "GenShakti",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/GenShakti (sync disabled)"
+    },
+    {
+      "project_name": "SealBid",
+      "github_url": "https://github.com/clownfish2023/SealBid.git",
+      "owner": "clownfish2023",
+      "repo": "SealBid",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/SealBid (sync disabled)"
+    },
+    {
+      "project_name": "CipherWhisp",
+      "github_url": "https://github.com/GokhanCey/CipherWhisp",
+      "owner": "GokhanCey",
+      "repo": "CipherWhisp",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/CipherWhisp (sync disabled)"
+    },
+    {
+      "project_name": "DataCert",
+      "github_url": "https://github.com/ducnmm/datacert",
+      "owner": "ducnmm",
+      "repo": "datacert",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/datacert (sync disabled)"
+    },
+    {
+      "project_name": "DataHaven",
+      "github_url": "https://github.com/dwk601/datahaven",
+      "owner": "dwk601",
+      "repo": "datahaven",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/datahaven exists (but not a fork of dwk601/datahaven)"
+    },
+    {
+      "project_name": "DataMarketplace",
+      "github_url": "https://github.com/scrtlabs/smart_contract_marketplace",
+      "owner": "scrtlabs",
+      "repo": "smart_contract_marketplace",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/smart_contract_marketplace (sync disabled)"
+    },
+    {
+      "project_name": "DiaryBeast",
+      "github_url": "https://github.com/dxdleady/diarybeast_v2",
+      "owner": "dxdleady",
+      "repo": "diarybeast_v2",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/diarybeast_v2 (sync disabled)"
+    },
+    {
+      "project_name": "DataWalrusMart",
+      "github_url": "https://github.com/rakib010y/datawalrusmart",
+      "owner": "rakib010y",
+      "repo": "datawalrusmart",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/datawalrusmart (sync disabled)"
+    },
+    {
+      "project_name": "ProofChain",
+      "github_url": "https://github.com/legendstechgh/proofchain-frontend/",
+      "owner": "legendstechgh",
+      "repo": "proofchain-frontend",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/proofchain-frontend (sync disabled)"
+    },
+    {
+      "project_name": "Wavein AI Verifiere",
+      "github_url": "https://github.com/Flappybi/wavein_ai_verifire",
+      "owner": "Flappybi",
+      "repo": "wavein_ai_verifire",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/wavein_ai_verifire (sync disabled)"
+    },
+    {
+      "project_name": "Olivia",
+      "github_url": "https://github.com/ayushshrivastv/tryolivia.git",
+      "owner": "ayushshrivastv",
+      "repo": "tryolivia",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/tryolivia (sync disabled)"
+    },
+    {
+      "project_name": "Chain Train",
+      "github_url": "https://github.com/sudhansu3299/chaintrain",
+      "owner": "sudhansu3299",
+      "repo": "chaintrain",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/chaintrain (sync disabled)"
+    },
+    {
+      "project_name": "Transaction Risk Analysis & Control System",
+      "github_url": "https://github.com/JacenYi/TRACS",
+      "owner": "JacenYi",
+      "repo": "TRACS",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/TRACS (sync disabled)"
+    },
+    {
+      "project_name": "WalrusPlay",
+      "github_url": "https://github.com/plutohan/sui-random-poc",
+      "owner": "plutohan",
+      "repo": "sui-random-poc",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/sui-random-poc (sync disabled)"
+    },
+    {
+      "project_name": "AstraData — Decentralized Dataset Marketplace",
+      "github_url": "https://github.com/thamothara7/AstraData",
+      "owner": "thamothara7",
+      "repo": "AstraData",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/AstraData (sync disabled)"
+    },
+    {
+      "project_name": "PROOF OF TRANSACTION",
+      "github_url": "https://github.com/lozentrad3s/PROOF-OF-TRANSACTION",
+      "owner": "lozentrad3s",
+      "repo": "PROOF-OF-TRANSACTION",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/PROOF-OF-TRANSACTION (sync disabled)"
+    },
+    {
+      "project_name": "QEDI",
+      "github_url": "https://github.com/karagozemin/QEDI",
+      "owner": "karagozemin",
+      "repo": "QEDI",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/QEDI (sync disabled)"
+    },
+    {
+      "project_name": "Walymarket",
+      "github_url": "https://github.com/swarooppatilx/walymarket",
+      "owner": "swarooppatilx",
+      "repo": "walymarket",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walymarket (sync disabled)"
+    },
+    {
+      "project_name": "Coues Protocol",
+      "github_url": "https://github.com/nrdlbs/sui-prediction-market",
+      "owner": "nrdlbs",
+      "repo": "sui-prediction-market",
+      "action": "fork",
+      "success": false,
+      "message": "Repository nrdlbs/sui-prediction-market not found or private"
+    },
+    {
+      "project_name": "SealMessage",
+      "github_url": "https://github.com/Al17er/Seal-Message",
+      "owner": "Al17er",
+      "repo": "Seal-Message",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Seal-Message (sync disabled)"
+    },
+    {
+      "project_name": "Archimeters",
+      "github_url": "https://github.com/231-Labs/archimeters",
+      "owner": "231-Labs",
+      "repo": "archimeters",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/archimeters (sync disabled)"
+    },
+    {
+      "project_name": "Hall Of Shame",
+      "github_url": "https://github.com/cifer76/HallOfShame",
+      "owner": "cifer76",
+      "repo": "HallOfShame",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/HallOfShame (sync disabled)"
+    },
+    {
+      "project_name": "Waldeo",
+      "github_url": "https://github.com/zcy1024/waldeo",
+      "owner": "zcy1024",
+      "repo": "waldeo",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/waldeo (sync disabled)"
+    },
+    {
+      "project_name": "WalDrive",
+      "github_url": "https://github.com/Iqbalfachry19/WalDrive",
+      "owner": "Iqbalfachry19",
+      "repo": "WalDrive",
+      "action": "skip",
+      "success": true,
+      "message": "Repository walrus-haulout/WalDrive exists (but not a fork of Iqbalfachry19/WalDrive)"
+    },
+    {
+      "project_name": "Sendora",
+      "github_url": "https://github.com/tusharshah21/Sendora",
+      "owner": "tusharshah21",
+      "repo": "Sendora",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Sendora (sync disabled)"
+    },
+    {
+      "project_name": "Aveno",
+      "github_url": "https://github.com/divi2806/Aveno-V1",
+      "owner": "divi2806",
+      "repo": "Aveno-V1",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Aveno-V1 (sync disabled)"
+    },
+    {
+      "project_name": "AI BUDDY",
+      "github_url": "https://github.com/cbrethick/ai_buddy",
+      "owner": "cbrethick",
+      "repo": "ai_buddy",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/ai_buddy (sync disabled)"
+    },
+    {
+      "project_name": "Walmarket",
+      "github_url": "https://github.com/getwalmarket/walmarket",
+      "owner": "getwalmarket",
+      "repo": "walmarket",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walmarket (sync disabled)"
+    },
+    {
+      "project_name": "Pelagius",
+      "github_url": "https://github.com/syrm-llc/pelagius",
+      "owner": "syrm-llc",
+      "repo": "pelagius",
+      "action": "fork",
+      "success": false,
+      "message": "Repository syrm-llc/pelagius not found or private"
+    },
+    {
+      "project_name": "MindShard",
+      "github_url": "https://github.com/ISRAEL-DUFF/mindshard",
+      "owner": "ISRAEL-DUFF",
+      "repo": "mindshard",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/mindshard (sync disabled)"
+    },
+    {
+      "project_name": "EcoLedger",
+      "github_url": "https://github.com/deepsurge/example",
+      "owner": "deepsurge",
+      "repo": "example",
+      "action": "fork",
+      "success": false,
+      "message": "Repository deepsurge/example not found or private"
+    },
+    {
+      "project_name": "walrus_store",
+      "github_url": "https://github.com/pwh-pwh/walrus_store",
+      "owner": "pwh-pwh",
+      "repo": "walrus_store",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/walrus_store (sync disabled)"
+    },
+    {
+      "project_name": "Sui Match",
+      "github_url": "https://github.com/ZeroToH3ro/matching-web",
+      "owner": "ZeroToH3ro",
+      "repo": "matching-web",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/matching-web (sync disabled)"
+    },
+    {
+      "project_name": "SuiAudit",
+      "github_url": "https://github.com/k66inthesky/suiguard",
+      "owner": "k66inthesky",
+      "repo": "suiguard",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/suiguard (sync disabled)"
+    },
+    {
+      "project_name": "VitalGraph: AMOCA Health",
+      "github_url": "https://github.com/manolaz/vital-graph-dex-healthcare-sui-walrus",
+      "owner": "manolaz",
+      "repo": "vital-graph-dex-healthcare-sui-walrus",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/vital-graph-dex-healthcare-sui-walrus (sync disabled)"
+    },
+    {
+      "project_name": "Verilens",
+      "github_url": "https://github.com/Tybravo/VeriLens",
+      "owner": "Tybravo",
+      "repo": "VeriLens",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/VeriLens (sync disabled)"
+    },
+    {
+      "project_name": "Fundsui: A Decentralized Creator-Subscription Platform",
+      "github_url": "https://github.com/CheatCodeSam/WAL-Hackathon",
+      "owner": "CheatCodeSam",
+      "repo": "WAL-Hackathon",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/WAL-Hackathon (sync disabled)"
+    },
+    {
+      "project_name": "Aurora TrustScanner ",
+      "github_url": "https://github.com/sanga28/Aurora",
+      "owner": "sanga28",
+      "repo": "Aurora",
+      "action": "skip",
+      "success": true,
+      "message": "Fork already exists at walrus-haulout/Aurora (sync disabled)"
+    }
+  ]
+}
