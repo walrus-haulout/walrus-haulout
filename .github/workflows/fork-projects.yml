@@ -26,6 +26,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.FORK_TOKEN }}
           TARGET_ORG: walrus-haulout
+          # Set to 'false' to skip syncing existing forks (only create new forks)
+          SYNC_EXISTING_FORKS: 'true'
         run: |
           python scripts/fork_projects.py
       
