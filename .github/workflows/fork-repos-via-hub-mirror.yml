@@ -44,6 +44,11 @@ jobs:
         with:
           src: ${{ matrix.src }}
           dst: ${{ matrix.dst }}
+          # dst_token: 用于 HTTPS 认证和创建仓库的 Personal Access Token
+          # 可以使用 secrets.GITHUB_TOKEN（自动提供）或 secrets.FORK_TOKEN（手动配置）
           dst_token: ${{ secrets.FORK_TOKEN }}
+          # 如需使用 SSH 方式，请取消下面两行的注释，并配置 GITHUB_PRIVATE_KEY
+          # dst_key: ${{ secrets.GITHUB_PRIVATE_KEY }}
+          # clone_style: ssh
           static_list: ${{ matrix.static_list }}
           force_update: ${{ matrix.force_update }}
