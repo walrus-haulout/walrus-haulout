@@ -7,8 +7,9 @@ on:
 
 jobs:
   fork-projects:
-    runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,8 +27,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.FORK_TOKEN }}
           TARGET_ORG: walrus-haulout
-          # Set to 'false' to skip syncing existing forks (only create new forks)
-          SYNC_EXISTING_FORKS: 'true'
+          # Use repository variable if set, otherwise default to 'true'
+          SYNC_EXISTING_FORKS: ${{ vars.SYNC_EXISTING_FORKS || 'true' }}
         run: |
           python scripts/fork_projects.py
       
@@ -37,3 +38,16 @@ jobs:
           name: fork-report
           path: fork_report.json
           retention-days: 30
+
+      - name: Commit and push report
+        if: always()
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add fork_report.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update fork report [skip ci]"
+            git push
+          fi
