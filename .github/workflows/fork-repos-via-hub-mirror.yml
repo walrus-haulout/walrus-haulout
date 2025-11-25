@@ -35,6 +35,10 @@ jobs:
   mirror-repos:
     needs: generate-matrix
     runs-on: ubuntu-latest
+    # 为 GITHUB_TOKEN 分配必要的权限（如果使用 secrets.GITHUB_TOKEN）
+    permissions:
+      contents: write
+      packages: write
     strategy:
       matrix:
         include: ${{ fromJSON(needs.generate-matrix.outputs.matrix) }}
@@ -44,11 +48,17 @@ jobs:
         with:
           src: ${{ matrix.src }}
           dst: ${{ matrix.dst }}
-          # dst_token: 用于 HTTPS 认证和创建仓库的 Personal Access Token
-          # 可以使用 secrets.GITHUB_TOKEN（自动提供）或 secrets.FORK_TOKEN（手动配置）
+          # Token 配置（二选一）：
+          # 方案 A: 使用手动配置的 Personal Access Token（推荐，权限更全）
           dst_token: ${{ secrets.FORK_TOKEN }}
-          # 如需使用 SSH 方式，请取消下面两行的注释，并配置 GITHUB_PRIVATE_KEY
-          # dst_key: ${{ secrets.GITHUB_PRIVATE_KEY }}
-          # clone_style: ssh
+          # 方案 B: 使用 GitHub 自动提供的 Token（无需配置 Secret，但权限可能受限）
+          # dst_token: ${{ secrets.GITHUB_TOKEN }}
+          # 明确指定使用 HTTPS 克隆方式（避免 SSH 权限问题）
+          clone_style: https
+          # 指定账户类型（org = 组织，user = 用户）
+          account_type: org
           static_list: ${{ matrix.static_list }}
           force_update: ${{ matrix.force_update }}
+          # 如需使用 SSH 方式，需要配置：
+          # dst_key: ${{ secrets.GITHUB_PRIVATE_KEY }}
+          # clone_style: ssh
