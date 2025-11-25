@@ -45,3 +45,5 @@ jobs:
           src: ${{ matrix.src }}
           dst: ${{ matrix.dst }}
           dst_token: ${{ secrets.FORK_TOKEN }}
+          static_list: ${{ matrix.static_list }}
+          force_update: ${{ matrix.force_update }}
