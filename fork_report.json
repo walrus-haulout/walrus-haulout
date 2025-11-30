@@ -805,7 +805,7 @@
       "repo": "hackathon_Walrus_ARA",
       "action": "skip",
       "success": true,
-      "message": "Fork already exists at walrus-haulout/hackathon_Walrus_ARA (sync disabled)"
+      "message": "Repository walrus-haulout/hackathon_Walrus_ARA exists (but not a fork of alibenyezza/hackathon_Walrus_ARA)"
     },
     {
       "project_name": "TruthChain",
@@ -1003,7 +1003,7 @@
       "repo": "Blockchain_J.A.R.V.I.S",
       "action": "skip",
       "success": true,
-      "message": "Fork already exists at walrus-haulout/Blockchain_J.A.R.V.I.S (sync disabled)"
+      "message": "Repository walrus-haulout/Blockchain_J.A.R.V.I.S exists (but not a fork of Adidem23/Blockchain_J.A.R.V.I.S)"
     },
     {
       "project_name": "DeTransfer",
@@ -1489,7 +1489,7 @@
       "repo": "Nereus",
       "action": "skip",
       "success": true,
-      "message": "Fork already exists at walrus-haulout/Nereus (sync disabled)"
+      "message": "Repository walrus-haulout/Nereus exists (but not a fork of ZzyzxLabs/Nereus)"
     },
     {
       "project_name": "TradeArena",
@@ -2344,7 +2344,7 @@
       "repo": "matching-web",
       "action": "skip",
       "success": true,
-      "message": "Fork already exists at walrus-haulout/matching-web (sync disabled)"
+      "message": "Repository walrus-haulout/matching-web exists (but not a fork of ZeroToH3ro/matching-web)"
     },
     {
       "project_name": "SuiAudit",
