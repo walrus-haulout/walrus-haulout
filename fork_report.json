@@ -1,10 +1,10 @@
 {
   "total": 265,
-  "successful": 2,
-  "failed": 14,
+  "successful": 3,
+  "failed": 13,
   "skipped": 249,
   "synced": 0,
-  "forked": 2,
+  "forked": 3,
   "results": [
     {
       "project_name": "Backstage",
@@ -588,8 +588,8 @@
       "owner": "Ashwin-3cS",
       "repo": "iknowspots",
       "action": "fork",
-      "success": false,
-      "message": "Repository Ashwin-3cS/iknowspots not found or private"
+      "success": true,
+      "message": "Successfully forked Ashwin-3cS/iknowspots"
     },
     {
       "project_name": "ZKCredential: Zero-Knowledge Identity and Compliance Oracle",
@@ -1777,7 +1777,7 @@
       "repo": "walroad",
       "action": "skip",
       "success": true,
-      "message": "Fork already exists at walrus-haulout/walroad (sync disabled)"
+      "message": "Repository walrus-haulout/walroad exists (but not a fork of sekaiking/walroad)"
     },
     {
       "project_name": "Foundry",
